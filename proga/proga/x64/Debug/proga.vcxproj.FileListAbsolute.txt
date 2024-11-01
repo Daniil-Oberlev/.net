@@ -1,0 +1,3 @@
+C:\Users\chouqe\source\repos\proga\proga\x64\Debug\proga.vcxproj.AssemblyReference.cache
+C:\Users\chouqe\source\repos\proga\proga\x64\Debug\proga.MyForm.resources
+C:\Users\chouqe\source\repos\proga\proga\x64\Debug\proga.vcxproj.GenerateResource.cache
